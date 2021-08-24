@@ -1,0 +1,14 @@
+C:\Users\rioga\source\repos\OopTask\OopTask\bin\Debug\netcoreapp3.1\OopTask.exe
+C:\Users\rioga\source\repos\OopTask\OopTask\bin\Debug\netcoreapp3.1\OopTask.deps.json
+C:\Users\rioga\source\repos\OopTask\OopTask\bin\Debug\netcoreapp3.1\OopTask.runtimeconfig.json
+C:\Users\rioga\source\repos\OopTask\OopTask\bin\Debug\netcoreapp3.1\OopTask.runtimeconfig.dev.json
+C:\Users\rioga\source\repos\OopTask\OopTask\bin\Debug\netcoreapp3.1\OopTask.dll
+C:\Users\rioga\source\repos\OopTask\OopTask\bin\Debug\netcoreapp3.1\OopTask.pdb
+C:\Users\rioga\source\repos\OopTask\OopTask\obj\Debug\netcoreapp3.1\OopTask.csproj.AssemblyReference.cache
+C:\Users\rioga\source\repos\OopTask\OopTask\obj\Debug\netcoreapp3.1\OopTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rioga\source\repos\OopTask\OopTask\obj\Debug\netcoreapp3.1\OopTask.AssemblyInfoInputs.cache
+C:\Users\rioga\source\repos\OopTask\OopTask\obj\Debug\netcoreapp3.1\OopTask.AssemblyInfo.cs
+C:\Users\rioga\source\repos\OopTask\OopTask\obj\Debug\netcoreapp3.1\OopTask.csproj.CoreCompileInputs.cache
+C:\Users\rioga\source\repos\OopTask\OopTask\obj\Debug\netcoreapp3.1\OopTask.dll
+C:\Users\rioga\source\repos\OopTask\OopTask\obj\Debug\netcoreapp3.1\OopTask.pdb
+C:\Users\rioga\source\repos\OopTask\OopTask\obj\Debug\netcoreapp3.1\OopTask.genruntimeconfig.cache
